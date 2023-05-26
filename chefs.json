@@ -1,0 +1,254 @@
+[
+  {
+    "id": 1,
+    "chef_picture": "https://i.ibb.co/L0rpq7j/Gordon-Ramsay.jpg",
+    "chef_name": "Gordon Ramsay",
+    "chef_bio": "Gordon Ramsay is a professional chef with 10 years of experience in the industry. She specializes in creating hearty, flavorful dishes that are easy to make at home.",
+    "years_of_experience": 25,
+    "number_of_recipes": 16,
+    "recipes": [
+      {
+        "id": 1,
+        "recipe_name": "Spaghetti Carbonara",
+        "ingredients": ["spaghetti", "bacon", "eggs", "parmesan cheese", "garlic", "olive oil"],
+        "cooking_method": "Preheat oven to 400F. Rub chicken with garlic and olive oil, then sprinkle with salt. Stuff cavity with lemon slices. Roast for 1 hour.",
+        "rating": 4.5,
+        "likes": 120
+      },
+      {
+        "id": 2,
+        "recipe_name": "Shepherd's Pie",
+        "ingredients": ["ground lamb", "onion", "carrot", "peas", "potatoes", "beef broth"],
+        "cooking_method": "In a large pot, brown beef and onions. Add remaining ingredients and enough water to cover. Simmer for 2 hours.",
+        "rating": 4,
+        "likes": 105
+      },
+      {
+        "id": 3,
+          "recipe_name": "Fish and Chips",
+          "ingredients": ["cod", "potatoes", "flour", "beer", "egg", "vegetable oil"],
+        "cooking_method": "Cook pasta according to package directions. Meanwhile, blend basil, parmesan, pine nuts, and garlic in a food processor until smooth. Toss with pasta.",
+        "rating": 4.2,
+        "likes": 125
+      },
+      {
+        "id": 4,
+        "recipe_name": "Quiche Lorraine",
+        "ingredients": ["pie crust", "bacon", "gruyere cheese", "eggs", "heavy cream", "nutmeg"],
+        "cooking_method": "In a large skillet, sauté onions and garlic until soft. Add eggplant and zucchini and cook until tender. Stir in tomatoes and simmer for 10 minutes.",
+        "rating": 4.1,
+        "likes": 110
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "chef_picture": "https://i.ibb.co/ypJK5rp/Heston-Blumenthal.jpg",
+    "chef_name": "Heston Blumenthal",
+    "chef_bio": "Heston Blumenthal is a self-taught chef who has been cooking for over 20 years. He loves experimenting with different flavors and techniques, and his dishes are always a hit with his family and friends.",
+    "years_of_experience": 7,
+    "number_of_recipes": 6,
+    "recipes": [
+      {
+        "id": 1,
+        "recipe_name": "Beef Bourguignon",
+        "ingredients": ["beef chuck roast", "red wine", "carrots", "onion", "bacon", "mushrooms"],
+        "cooking_method": "In a large wok, heat oil over high heat. Add shrimp and stir-fry for 2 minutes. Add remaining ingredients and stir-fry for another 2 minutes. Serve with rice.",
+        "rating": 4.3,
+        "likes": 95
+      },
+      {
+        "id": 2,
+        "recipe_name": "Paella",
+        "ingredients": ["rice", "chicken", "chorizo", "shrimp", "saffron", "bell pepper"],
+        "cooking_method": "In a large skillet, brown beef over high heat. Add onion and garlic and sauté until soft. Add broccoli and stir-fry for 2 minutes. Mix soy sauce, cornstarch, brown sugar, and beef broth and add to skillet. Stir-fry for another 2 minutes.",
+        "rating": 4.1,
+        "likes": 90
+      },
+      {
+        "id": 3,
+        "recipe_name": "Borscht",
+        "ingredients": ["beets", "potatoes", "cabbage", "carrots", "onion", "sour cream"],
+        "cooking_method": "In a large pot, heat oil over medium heat. Add onion and garlic and sauté until soft. Add chicken and curry powder and sauté until chicken is browned. Add coconut milk and chicken broth and simmer for 20 minutes.",
+        "rating": 4.4,
+        "likes": 100
+      },
+      {
+        "id": 4,
+        "recipe_name": "Goulash",
+        "ingredients": ["beef chuck roast", "onion", "carrots", "potatoes", "paprika", "sour cream"],
+        "cooking_method": "In a large skillet, heat oil over medium-high heat. Add pork chops and brown on both sides. Remove chops and set aside. Add onion and garlic to skillet and sauté until soft. Add apples, vinegar, honey, and thyme and simmer for 10 minutes. Return pork chops to skillet and simmer for another 10 minutes.",
+        "rating": 4.6,
+        "likes": 110
+      }
+    ]
+  },
+{
+    "id": 3,
+    "chef_picture": "https://i.ibb.co/qW836dm/Jamie-Oliver.jpg",
+    "chef_name": "Jamie Oliver",
+    "chef_bio": "Jamie Oliver is a self-taught chef who has been cooking for over 20 years. He loves experimenting with different flavors and techniques, and his dishes are always a hit with his family and friends.",
+    "years_of_experience": 22,
+    "number_of_recipes": 9,
+    "recipes": [
+      {
+        "id": 1,
+        "recipe_name": "Lasagna",
+        "ingredients": ["lasagna noodles", "ground beef", "tomato sauce", "ricotta cheese", "mozzarella cheese", "onion"],
+        "cooking_method": "In a large wok, heat oil over high heat. Add shrimp and stir-fry for 2 minutes. Add remaining ingredients and stir-fry for another 2 minutes. Serve with rice.",
+        "rating": 4.3,
+        "likes": 95
+      },
+      {
+        "id": 2,
+        "recipe_name": "Beef Stroganoff",
+        "ingredients": ["beef sirloin", "onion", "mushrooms", "beef broth", "sour cream", "egg noodles"],
+        "cooking_method": "In a large skillet, brown beef over high heat. Add onion and garlic and sauté until soft. Add broccoli and stir-fry for 2 minutes. Mix soy sauce, cornstarch, brown sugar, and beef broth and add to skillet. Stir-fry for another 2 minutes.",
+        "rating": 4.1,
+        "likes": 90
+      },
+      {
+        "id": 3,
+        "recipe_name": "French Onion Soup",
+        "ingredients": ["yellow onions", "beef broth", "baguette", "gruyere cheese", "butter", "white wine"],
+        "cooking_method": "In a large pot, heat oil over medium heat. Add onion and garlic and sauté until soft. Add chicken and curry powder and sauté until chicken is browned. Add coconut milk and chicken broth and simmer for 20 minutes.",
+        "rating": 4.4,
+        "likes": 100
+      },
+      {
+        "id": 4,
+        "recipe_name": "Schnitzel",
+        "ingredients": ["pork chops", "flour", "eggs", "breadcrumbs", "lemon", "vegetable oil"],
+        "cooking_method": "In a large skillet, heat oil over medium-high heat. Add pork chops and brown on both sides. Remove chops and set aside. Add onion and garlic to skillet and sauté until soft. Add apples, vinegar, honey, and thyme and simmer for 10 minutes. Return pork chops to skillet and simmer for another 10 minutes.",
+        "rating": 4.6,
+        "likes": 110
+      }
+    ]
+  },
+{
+    "id": 4,
+    "chef_picture": "https://i.ibb.co/sWqCpj1/Marco-Pierre-White.jpg",
+    "chef_name": "Marco Pierre White",
+    "chef_bio": "Marco Pierre White is a self-taught chef who has been cooking for over 20 years. He loves experimenting with different flavors and techniques, and his dishes are always a hit with his family and friends.",
+    "years_of_experience": 7,
+    "number_of_recipes": 13,
+    "recipes": [
+      {
+        "id": 1,
+        "recipe_name": "Ratatouille",
+        "ingredients": ["eggplant", "zucchini", "bell pepper", "tomatoes", "onion", "garlic"],
+        "cooking_method": "In a large wok, heat oil over high heat. Add shrimp and stir-fry for 2 minutes. Add remaining ingredients and stir-fry for another 2 minutes. Serve with rice.",
+        "rating": 4.3,
+        "likes": 95
+      },
+      {
+        "id": 2,
+        "recipe_name": "Beef Wellington",
+        "ingredients": ["beef tenderloin", "puff pastry", "prosciutto", "mushrooms", "dijon mustard", "egg wash"],
+        "cooking_method": "In a large skillet, brown beef over high heat. Add onion and garlic and sauté until soft. Add broccoli and stir-fry for 2 minutes. Mix soy sauce, cornstarch, brown sugar, and beef broth and add to skillet. Stir-fry for another 2 minutes.",
+        "rating": 4.1,
+        "likes": 90
+      },
+      {
+        "id": 3,
+        "recipe_name": "Cacio e Pepe",
+        "ingredients": ["spaghetti", "pecorino romano cheese", "black pepper", "butter", "olive oil", "salt"],
+        "cooking_method": "In a large pot, heat oil over medium heat. Add onion and garlic and sauté until soft. Add chicken and curry powder and sauté until chicken is browned. Add coconut milk and chicken broth and simmer for 20 minutes.",
+        "rating": 4.4,
+        "likes": 100
+      },
+      {
+        "id": 4,
+        "recipe_name": "Beef Goulash Soup",
+        "ingredients": ["beef chuck roast", "onion", "carrots", "potatoes", "paprika", "beef broth"],
+        "cooking_method": "In a large skillet, heat oil over medium-high heat. Add pork chops and brown on both sides. Remove chops and set aside. Add onion and garlic to skillet and sauté until soft. Add apples, vinegar, honey, and thyme and simmer for 10 minutes. Return pork chops to skillet and simmer for another 10 minutes.",
+        "rating": 4.6,
+        "likes": 110
+      }
+    ]
+  },
+{
+    "id": 5,
+    "chef_picture": "https://i.ibb.co/FXPdzg6/Massimo-Bottura.webp",
+    "chef_name": "Massimo Bottura",
+    "chef_bio": "Massimo Bottura is a self-taught chef who has been cooking for over 20 years. He loves experimenting with different flavors and techniques, and his dishes are always a hit with his family and friends.",
+    "years_of_experience": 12,
+    "number_of_recipes": 8,
+    "recipes": [
+      {
+        "id": 1,
+        "recipe_name": "Sauerbraten",
+        "ingredients": ["beef roast", "onion", "carrot", "red wine vinegar", "gingerbread cookies", "beef broth"],
+        "cooking_method": "In a large wok, heat oil over high heat. Add shrimp and stir-fry for 2 minutes. Add remaining ingredients and stir-fry for another 2 minutes. Serve with rice.",
+        "rating": 4.3,
+        "likes": 95
+      },
+      {
+        "id": 2,
+        "recipe_name": "Coq au Vin",
+        "ingredients": ["chicken thighs", "bacon", "carrots", "onion", "mushrooms", "red wine"],
+        "cooking_method": "In a large skillet, brown beef over high heat. Add onion and garlic and sauté until soft. Add broccoli and stir-fry for 2 minutes. Mix soy sauce, cornstarch, brown sugar, and beef broth and add to skillet. Stir-fry for another 2 minutes.",
+        "rating": 4.1,
+        "likes": 90
+      },
+      {
+        "id": 3,
+        "recipe_name": "Cottage Pie",
+        "ingredients": ["ground beef", "onion", "carrots", "peas", "mashed potatoes", "beef broth"],
+        "cooking_method": "In a large pot, heat oil over medium heat. Add onion and garlic and sauté until soft. Add chicken and curry powder and sauté until chicken is browned. Add coconut milk and chicken broth and simmer for 20 minutes.",
+        "rating": 4.4,
+        "likes": 100
+      },
+      {
+        "id": 4,
+        "recipe_name": "Irish Stew",
+        "ingredients": ["lamb shoulder", "onion", "carrots", "potatoes", "thyme", "beef broth"],
+        "cooking_method": "In a large skillet, heat oil over medium-high heat. Add pork chops and brown on both sides. Remove chops and set aside. Add onion and garlic to skillet and sauté until soft. Add apples, vinegar, honey, and thyme and simmer for 10 minutes. Return pork chops to skillet and simmer for another 10 minutes.",
+        "rating": 4.6,
+        "likes": 110
+      }
+    ]
+  },
+{
+    "id": 6,
+    "chef_picture": "https://i.ibb.co/jLMYP1Y/Thomas-Keller.jpg",
+    "chef_name": "Thomas Keller",
+    "chef_bio": "Thomas Keller is a self-taught chef who has been cooking for over 20 years. He loves experimenting with different flavors and techniques, and his dishes are always a hit with his family and friends.",
+    "years_of_experience": 10,
+    "number_of_recipes": 12,
+    "recipes": [
+      {
+        "id": 1,
+        "recipe_name": "Bangers and Mash",
+        "ingredients": ["sausages", "potatoes", "butter", "milk", "onion", "gravy"],
+        "cooking_method": "In a large wok, heat oil over high heat. Add shrimp and stir-fry for 2 minutes. Add remaining ingredients and stir-fry for another 2 minutes. Serve with rice.",
+        "rating": 4.3,
+        "likes": 95
+      },
+      {
+        "id": 2,
+        "recipe_name": "Tuna Casserole",
+        "ingredients": ["egg noodles", "canned tuna", "cream of mushroom soup", "frozen peas", "cheddar cheese", "bread crumbs"],
+        "cooking_method": "In a large skillet, brown beef over high heat. Add onion and garlic and sauté until soft. Add broccoli and stir-fry for 2 minutes. Mix soy sauce, cornstarch, brown sugar, and beef broth and add to skillet. Stir-fry for another 2 minutes.",
+        "rating": 4.1,
+        "likes": 90
+      },
+      {
+        "id": 3,
+        "recipe_name": "Beet Salad",
+        "ingredients": ["beets", "goat cheese", "walnuts", "arugula", "olive oil", "balsamic vinegar"],
+        "cooking_method": "In a large pot, heat oil over medium heat. Add onion and garlic and sauté until soft. Add chicken and curry powder and sauté until chicken is browned. Add coconut milk and chicken broth and simmer for 20 minutes.",
+        "rating": 4.4,
+        "likes": 100
+      },
+      {
+        "id": 4,
+        "recipe_name": "Cabbage Rolls",
+        "ingredients": ["cabbage leaves", "ground beef", "onion", "rice", "tomato sauce", "chicken broth"],
+        "cooking_method": "In a large skillet, heat oil over medium-high heat. Add pork chops and brown on both sides. Remove chops and set aside. Add onion and garlic to skillet and sauté until soft. Add apples, vinegar, honey, and thyme and simmer for 10 minutes. Return pork chops to skillet and simmer for another 10 minutes.",
+        "rating": 4.6,
+        "likes": 110
+      }
+    ]
+  }
+]

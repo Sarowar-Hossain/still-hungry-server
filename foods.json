@@ -1,0 +1,22 @@
+[
+    {
+      "id": 1,
+      "name": "Roasted Chicken",
+      "image": "https://images.unsplash.com/photo-1543340904-991f3751a30f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=726&q=80"
+    },
+    {
+      "id": 2,
+      "name": "Beef Stew",
+      "image": "https://images.unsplash.com/photo-1583549322901-9edf5dad0cc4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80"
+    },
+    {
+      "id": 3,
+      "name": "Pesto Pasta",
+      "image": "https://images.unsplash.com/photo-1600803907087-f56d462fd26b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=327&q=80"
+    },
+    {
+      "id": 4,
+      "name": "Ratatouille",
+      "image": "https://images.unsplash.com/photo-1659192507355-20a957f39c4e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=327&q=80"
+    }
+  ]
